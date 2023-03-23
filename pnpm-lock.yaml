@@ -397,7 +397,7 @@ importers:
       react-gtm-module: 2.0.11
       react-helmet: 6.1.0
       react-hotkeys: 2.0.0
-      react-i18next: 11.18.6
+      react-i18next: 12.2.0
       react-instantsearch-core: 6.39.0
       react-instantsearch-dom: 6.39.0
       react-monaco-editor: 0.40.0
@@ -507,7 +507,7 @@ importers:
       react-gtm-module: 2.0.11
       react-helmet: 6.1.0_react@16.14.0
       react-hotkeys: 2.0.0_react@16.14.0
-      react-i18next: 11.18.6_q4h3j6mg5zpuu7pmg7l4zeng6i
+      react-i18next: 12.2.0_q4h3j6mg5zpuu7pmg7l4zeng6i
       react-instantsearch-core: 6.39.0_gjtvagtimr5fxubqnaetkkst2y
       react-instantsearch-dom: 6.39.0_gs3zfk3gapw7ycemojzf55dqlq
       react-monaco-editor: 0.40.0_o6svdx7ptmmnoxx4yhzc5bzi5y
@@ -14554,7 +14554,6 @@ packages:
         optional: true
     dependencies:
       ms: 0.7.1
-    dev: false
 
   /debug/2.6.9:
     resolution: {integrity: sha512-bC7ElrdJaJnPbAP+1EotYvqZsb3ecl5wi6Bfi6BJTUcNowp6cvspg0jXznRTKDjm/E7AdgFBVeAPVMNcKGsHMA==}
@@ -23989,7 +23988,6 @@ packages:
 
   /ms/0.7.1:
     resolution: {integrity: sha512-lRLiIR9fSNpnP6TC4v8+4OU7oStC01esuNowdQ34L+Gk8e5Puoc88IqJ+XAY/B3Mn2ZKis8l8HX90oU8ivzUHg==}
-    dev: false
 
   /ms/2.0.0:
     resolution: {integrity: sha512-Tpp60P6IUJDTuOq/5Z8cdskzJujfwqfOTkrwIwj7IRISpnkJnT6SyJ4PCPnGMoFjC9ddhal5KVIYtAt97ix05A==}
@@ -27198,8 +27196,8 @@ packages:
       react: 16.14.0
     dev: false
 
-  /react-i18next/11.18.6_q4h3j6mg5zpuu7pmg7l4zeng6i:
-    resolution: {integrity: sha512-yHb2F9BiT0lqoQDt8loZ5gWP331GwctHz9tYQ8A2EIEUu+CcEdjBLQWli1USG3RdWQt3W+jqQLg/d4rrQR96LA==}
+  /react-i18next/12.2.0_q4h3j6mg5zpuu7pmg7l4zeng6i:
+    resolution: {integrity: sha512-5XeVgSygaGfyFmDd2WcXvINRw2WEC1XviW1LXY/xLOEMzsCFRwKqfnHN+hUjla8ZipbVJR27GCMSuTr0BhBBBQ==}
     peerDependencies:
       i18next: '>= 19.0.0'
       react: '>= 16.8.0'
@@ -29145,7 +29143,7 @@ packages:
     engines: {node: '>=0.10.0'}
     dependencies:
       base: 0.11.2
-      debug: 2.6.9
+      debug: 2.2.0
       define-property: 0.2.5
       extend-shallow: 2.0.1
       map-cache: 0.2.2
